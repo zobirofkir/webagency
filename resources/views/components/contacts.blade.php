@@ -1,4 +1,4 @@
-<section id="support" class="pt-[100px] pb-[110px]">
+<section id="contacts" class="pt-[100px] pb-[110px]">
     <div class="container">
     <div
         class="wow fadeInUp mx-auto mb-10 max-w-[690px] text-center"

@@ -86,64 +86,65 @@
 
         <div class="w-full px-4 lg:w-1/2">
             <div
-            class="wow fadeInUp lg:ml-auto lg:max-w-[510px]"
-            data-wow-delay=".3s"
+                class="wow fadeInUp lg:ml-auto lg:max-w-[510px]"
+                data-wow-delay=".3s"
             >
-            <span
-                class="mb-4 block text-lg font-medium text-primary md:text-[22px]"
-            >
-                Track Audience Activities
-            </span>
-            <h2
-                class="mb-4 text-3xl font-bold text-black dark:text-black sm:text-4xl md:text-[44px] md:leading-tight"
-            >
-                Track Your Audience Activities
-            </h2>
-            <p
-                class="mb-[30px] text-base leading-relaxed text-body"
-            >
-                Schedule your posts for times when your audience is most
-                active. Choose from our best-time predictions, or create
-                your own publishing schedule.
-            </p>
-
-            <div class="mb-[30px] flex items-center">
-                <div
-                class="mr-[22px] flex h-[60px] w-[60px] items-center justify-center rounded-full border border-stroke text-xl font-semibold text-black dark:border-stroke-dark dark:bg-dark dark:text-white"
+                <span
+                    class="mb-4 block text-lg font-medium text-primary md:text-[22px]"
                 >
-                01
-                </div>
-                <div>
-                <h5
-                    class="text-xl font-medium text-black dark:text-black"
+                    Web Agency | Web And App Development
+                </span>
+                <h2
+                    class="mb-4 text-3xl font-bold text-black dark:text-black sm:text-4xl md:text-[44px] md:leading-tight"
                 >
-                    Lorem ipsum dolor.
-                </h5>
-                <p class="text-base text-body">
-                    Ut ultricies lacus non fermentum ultrices.
+                    Track Your Audience Activities
+                </h2>
+                <p
+                    class="mb-[30px] text-base leading-relaxed text-body"
+                >
+                    Schedule your posts for times when your audience is most
+                    active. With our advanced analytics and tools, you'll always know the best moments to engage your audience effectively.
                 </p>
-                </div>
-            </div>
 
-            <div class="flex items-center">
-                <div
-                class="mr-[22px] flex h-[60px] w-[60px] items-center justify-center rounded-full border border-stroke text-xl font-semibold text-black dark:border-stroke-dark dark:bg-dark dark:text-white"
-                >
-                02
+                <div class="mb-[30px] flex items-center">
+                    <div
+                        class="mr-[22px] flex h-[60px] w-[60px] items-center justify-center rounded-full border border-stroke text-xl font-semibold text-black dark:border-stroke-dark dark:bg-dark dark:text-white"
+                    >
+                        01
+                    </div>
+                    <div>
+                        <h5
+                            class="text-xl font-medium text-black dark:text-black"
+                        >
+                            Real-Time Analytics
+                        </h5>
+                        <p class="text-base text-body">
+                            Monitor your audience's activities live to adjust your strategy instantly and improve engagement rates.
+                        </p>
+                    </div>
                 </div>
-                <div>
-                <h5
-                    class="text-xl font-medium text-black dark:text-black"
-                >
-                    Lorem ipsum dolor.
-                </h5>
-                <p class="text-base text-body">
-                    Ut ultricies lacus non fermentum ultrices.
-                </p>
+
+                <div class="flex items-center">
+                    <div
+                        class="mr-[22px] flex h-[60px] w-[60px] items-center justify-center rounded-full border border-stroke text-xl font-semibold text-black dark:border-stroke-dark dark:bg-dark dark:text-white"
+                    >
+                        02
+                    </div>
+                    <div>
+                        <h5
+                            class="text-xl font-medium text-black dark:text-black"
+                        >
+                            Tailored Scheduling
+                        </h5>
+                        <p class="text-base text-body">
+                            Use data-driven insights to plan your posts and maximize audience interaction during peak times.
+                        </p>
+                    </div>
                 </div>
-            </div>
             </div>
         </div>
+
+
         </div>
     </div>
 

@@ -11,8 +11,6 @@
 
     @include('components.screens')
 
-    @include('components.cta')
-
     @include('components.testimonials')
 
     @include('components.faq')
