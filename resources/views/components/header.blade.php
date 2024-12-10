@@ -5,8 +5,8 @@ class="navbar absolute top-0 left-0 z-50 w-full border-stroke bg-white duration-
   <div class="flex items-center justify-between">
     <div class="block py-4 lg:py-0">
       <a
-        href=""
-        class="block max-w-[145px] sm:max-w-[180px]"
+        href="#home"
+        class="block max-w-[145px] sm:max-w-[180px] menu-scroll"
       >
         <img
           src="{{asset('assets/images/logo.svg')}}"
