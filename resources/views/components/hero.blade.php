@@ -38,8 +38,6 @@
                     >
                         About Us
                     </span>
-                    <span>
-                    </span>
                 </a>
 
                 <a
@@ -63,8 +61,7 @@
                     </svg>
                     </span>
                     <span class="text-base font-medium">
-                    <span class="block text-sm"> Watch Demo </span>
-                    See how it works
+                    <span class="block text-sm"> Video </span>
                     </span>
                 </a>
                 </div>

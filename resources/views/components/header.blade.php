@@ -79,7 +79,7 @@ class="navbar absolute top-0 left-0 z-50 w-full border-stroke bg-white duration-
               href="#work-process"
               class="menu-scroll inline-flex items-center text-base font-medium text-black hover:text-primary dark:text-white dark:hover:text-primary lg:py-7"
             >
-              How It Works
+                Works
             </a>
           </li>
           <li class="menu-item">

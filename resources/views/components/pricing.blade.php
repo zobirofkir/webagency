@@ -1,4 +1,4 @@
-<section class="relative pt-[120px] pb-[100px]">
+<section class="relative pt-[120px] pb-[100px] mt-20">
     <div class="container">
         <div class="flex flex-wrap justify-center">
             <!-- Basic Plan -->
