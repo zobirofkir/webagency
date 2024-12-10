@@ -220,6 +220,7 @@ html {
 
 body {
   margin: 0; /* 1 */
+  scroll-behavior: smooth;
   line-height: inherit; /* 2 */
 }
 

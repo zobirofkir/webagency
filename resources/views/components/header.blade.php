@@ -90,72 +90,6 @@ class="navbar absolute top-0 left-0 z-50 w-full border-stroke bg-white duration-
               Support
             </a>
           </li>
-          <li class="submenu-item menu-item group relative">
-            <a
-              href="javascript:void(0)"
-              class="submenu-taggler inline-flex items-center text-base font-medium text-black hover:text-primary group-hover:text-primary dark:text-white dark:hover:text-primary lg:py-7"
-            >
-              Pages
-
-              <span class="pl-3">
-                <svg
-                  width="14"
-                  height="8"
-                  viewBox="0 0 14 8"
-                  class="fill-current"
-                >
-                  <path
-                    d="M6.54564 5.09128L11.6369 0L13.0913 1.45436L6.54564 8L0 1.45436L1.45436 0L6.54564 5.09128Z"
-                  />
-                </svg>
-              </span>
-            </a>
-
-            <ul
-              class="submenu hidden space-y-5 pt-5 duration-300 lg:invisible lg:absolute lg:top-[120%] lg:block lg:w-[250px] lg:rounded-lg lg:bg-white lg:px-8 lg:pb-5 lg:text-left lg:opacity-0 lg:shadow-card lg:group-hover:visible lg:group-hover:top-full lg:group-hover:opacity-100 dark:lg:border-transparent dark:lg:bg-[#15182A] lg:dark:shadow-card-dark"
-            >
-              <li>
-                <a
-                  href="blog-grid.html"
-                  class="font-heading inline-flex items-center justify-center text-center text-base text-black hover:text-primary dark:text-white dark:hover:text-primary"
-                >
-                  Blog Grids
-                </a>
-              </li>
-              <li>
-                <a
-                  href="blog-details.html"
-                  class="font-heading inline-flex items-center justify-center text-center text-base text-black hover:text-primary dark:text-white dark:hover:text-primary"
-                >
-                  Blog Details
-                </a>
-              </li>
-              <li>
-                <a
-                  href="404.html"
-                  class="font-heading inline-flex items-center justify-center text-center text-base text-black hover:text-primary dark:text-white dark:hover:text-primary"
-                >
-                  404 Error
-                </a>
-              </li>
-              <li>
-                <a
-                  href="signin.html"
-                  class="font-heading inline-flex items-center justify-center text-center text-base text-black hover:text-primary dark:text-white dark:hover:text-primary"
-                >
-                  Sign In
-                </a>
-              </li>
-              <li>
-                <a
-                  href="signup.html"
-                  class="font-heading inline-flex items-center justify-center text-center text-base text-black hover:text-primary dark:text-white dark:hover:text-primary"
-                >
-                  Sign Up
-                </a>
-              </li>
-            </ul>
-          </li>
         </ul>
       </nav>
     </div>
@@ -223,19 +157,6 @@ class="navbar absolute top-0 left-0 z-50 w-full border-stroke bg-white duration-
           </svg>
         </span>
       </label>
-      <a
-        href="signin.html"
-        class="hidden py-[10px] px-6 text-base font-medium text-black hover:text-primary dark:text-white dark:hover:text-primary sm:inline-block"
-      >
-        Sign In
-      </a>
-
-      <a
-        href="signup.html"
-        class="hidden rounded-md bg-primary py-[10px] px-[30px] text-base font-medium text-white hover:bg-opacity-90 sm:inline-block"
-      >
-        Sign Up
-      </a>
     </div>
   </div>
 </div>
